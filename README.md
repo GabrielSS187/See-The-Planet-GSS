@@ -13,7 +13,7 @@
 
 ``See-The-Planet-GSS`` E um projeto onde você pode pesquisar qualquer lugar do mundo de uma forma simples e fácil.
 
-A aplicação consiste no foco de fazer pesquisas em qualquer lugar do mundo podendo da zoom de alta precisão, ver nome de locais,
+A aplicação consiste no foco de fazer pesquisas em qualquer lugar do mundo podendo da zoom de alta precisão, ver nomes de locais,
 pontos comerciais e etc..
 
 ## Video de demostração
