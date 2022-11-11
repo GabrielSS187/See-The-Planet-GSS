@@ -18,6 +18,8 @@ pontos comerciais etc..
 
 
 
+
+
 # Tecnologias utilizadas
 
 ## Front end
