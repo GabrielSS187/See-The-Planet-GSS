@@ -9,16 +9,15 @@
 
 ### Link: [See-The-Planet-GSS](https://see-the-planet-gss.vercel.app/)
 
+## 💻Projeto em desenvolvimento💻
+
 ``See-The-Planet-GSS`` E um projeto onde você pode pesquisar qualquer lugar do mundo de uma forma simples e fácil.
 
-A aplicação consiste no foco e fazer pesquisas em qualquer lugar do mundo podendo da zoom de alta precisão, ver nome de locais,
-pontos comerciais etc..
+A aplicação consiste no foco de fazer pesquisas em qualquer lugar do mundo podendo da zoom de alta precisão, ver nome de locais,
+pontos comerciais e etc..
 
 ## Video de demostração
-
-
-
-
+https://user-images.githubusercontent.com/86306877/201422190-a909ca22-8e2d-4d8a-a737-4de24f31f8ce.mp4
 
 # Tecnologias utilizadas
 
