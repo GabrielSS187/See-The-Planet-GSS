@@ -38,7 +38,7 @@ Pré-requisitos: npm / yarn
 
 ```bash
 # clonar repositório
-https://github.com/GabrielSS187/See-The-Planet-GSS.git
+git clone https://github.com/GabrielSS187/See-The-Planet-GSS.git
 
 # entrar na pasta do projeto front end web
 cd See-The-Planet-GSS
